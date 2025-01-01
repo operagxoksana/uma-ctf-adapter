@@ -18,7 +18,7 @@ This repository contains contracts used to resolve [Polymarket](https://polymark
 ## Architecture
 ![Contract Architecture](./docs/adapter.png)
 
-The Adapter is an [oracle](https://github.com/Polymarket/conditional-tokens-contracts/blob/a927b5a52cf9ace712bf1b5fe1d92bf76399e692/contracts/ConditionalTokens.sol#L65) to [Conditional Tokens Framework(CTF)](https://docs.gnosis.io/conditionaltokens/) conditions, which Polymarket prediction markets are based on.
+The Adapter is an [oracle](https://docs.uma.xyz/developers/optimistic-oracle-v3) to [Conditional Tokens Framework(CTF)](https://docs.gnosis.io/conditionaltokens/) conditions, which Polymarket prediction markets are based on.
 
 It fetches resolution data from UMA's Optmistic Oracle and resolves the condition based on said resolution data.
 
