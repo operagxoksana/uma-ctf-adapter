@@ -8,7 +8,7 @@
 [version-link]: https://github.com/Polymarket/uma-ctf-adapter/releases
 [license-badge]: https://img.shields.io/github/license/polymarket/uma-ctf-adapter
 [license-link]: https://github.com/Polymarket/uma-ctf-adapter/blob/main/LICENSE.md
-[ci-badge]: https://github.com/Polymarket/uma-ctf-adapter/workflows/Tests/badge.svg
+[ci-badge]: https://github.com/Polymarket/uma-ctf-adapter/actions/workflows/Tests.yaml/badge.svg
 [ci-link]: https://github.com/Polymarket/uma-ctf-adapter/actions/workflows/Tests.yaml
 
 ## Overview
